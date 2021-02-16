@@ -28,5 +28,5 @@ Your task is to train a model on the 'train' folder which performs well on the '
 Dataset in available here :  https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL
 
 Files attached : 
-- Jupyter Notebook consiting python code
+- Jupyter Notebook consisting python code
 - Final writeup
